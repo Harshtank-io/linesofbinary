@@ -70,7 +70,6 @@ export default function Products() {
       <h1 className="products"> Blind 75</h1>
       <div className={`toggle ${showList ? "expanded" : ""}`} onClick={toggleList}>
         Array
-      </div>
       {showList && (
         <div className={`lists ${showList ? "expanded" : ""}`}>
           <ul>
@@ -88,6 +87,7 @@ export default function Products() {
           </ul>
         </div>
       )}
+        </div>
     </div>
   );
 }
