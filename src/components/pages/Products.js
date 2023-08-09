@@ -314,6 +314,171 @@ const categories = [
       },
     ],
   },
+  {
+    name: "String",
+    problems: [
+      {
+        id: 50,
+        title: "Longest Substring Without Repeating Characters",
+        leetcodeLink:
+          "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      },
+      {
+        id: 51,
+        title: "Longest Repeating Character Replacement",
+        leetcodeLink:
+          "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      },
+      {
+        id: 52,
+        title: "Minimum Window Substring",
+        leetcodeLink: "https://leetcode.com/problems/minimum-window-substring/",
+      },
+      {
+        id: 53,
+        title: "Valid Anagram",
+        leetcodeLink: "https://leetcode.com/problems/valid-anagram/",
+      },
+      {
+        id: 54,
+        title: "Group Anagrams",
+        leetcodeLink: "https://leetcode.com/problems/group-anagrams/",
+      },
+      {
+        id: 55,
+        title: "Valid Parentheses",
+        leetcodeLink: "https://leetcode.com/problems/valid-parentheses/",
+      },
+      {
+        id: 56,
+        title: "Valid Palindrome",
+        leetcodeLink: "https://leetcode.com/problems/valid-palindrome/",
+      },
+      {
+        id: 57,
+        title: "Longest Palindromic Substring",
+        leetcodeLink:
+          "https://leetcode.com/problems/longest-palindromic-substring/",
+      },
+      {
+        id: 58,
+        title: "Palindromic Substrings",
+        leetcodeLink: "https://leetcode.com/problems/palindromic-substrings/",
+      },
+      {
+        id: 59,
+        title: "Encode and Decode Strings (Leetcode Premium)",
+        leetcodeLink:
+          "https://leetcode.com/problems/encode-and-decode-strings/",
+      },
+    ],
+  },
+  {
+    name: "Tree",
+    problems: [
+      {
+        id: 60,
+        title: "Maximum Depth of Binary Tree",
+        leetcodeLink:
+          "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      },
+      {
+        id: 61,
+        title: "Same Tree",
+        leetcodeLink: "https://leetcode.com/problems/same-tree/",
+      },
+      {
+        id: 62,
+        title: "Invert/Flip Binary Tree",
+        leetcodeLink: "https://leetcode.com/problems/invert-binary-tree/",
+      },
+      {
+        id: 63,
+        title: "Binary Tree Maximum Path Sum",
+        leetcodeLink:
+          "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      },
+      {
+        id: 64,
+        title: "Binary Tree Level Order Traversal",
+        leetcodeLink:
+          "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      },
+      {
+        id: 65,
+        title: "Serialize and Deserialize Binary Tree",
+        leetcodeLink:
+          "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+      },
+      {
+        id: 66,
+        title: "Subtree of Another Tree",
+        leetcodeLink: "https://leetcode.com/problems/subtree-of-another-tree/",
+      },
+      {
+        id: 67,
+        title: "Construct Binary Tree from Preorder and Inorder Traversal",
+        leetcodeLink:
+          "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      },
+      {
+        id: 68,
+        title: "Validate Binary Search Tree",
+        leetcodeLink:
+          "https://leetcode.com/problems/validate-binary-search-tree/",
+      },
+      {
+        id: 69,
+        title: "Kth Smallest Element in a BST",
+        leetcodeLink:
+          "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      },
+      {
+        id: 70,
+        title: "Lowest Common Ancestor of BST",
+        leetcodeLink:
+          "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      },
+      {
+        id: 71,
+        title: "Implement Trie (Prefix Tree)",
+        leetcodeLink:
+          "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      },
+      {
+        id: 72,
+        title: "Add and Search Word",
+        leetcodeLink:
+          "https://leetcode.com/problems/add-and-search-word-data-structure-design/",
+      },
+      {
+        id: 73,
+        title: "Word Search II",
+        leetcodeLink: "https://leetcode.com/problems/word-search-ii/",
+      },
+    ],
+  },
+  {
+    name: "Heap",
+    problems: [
+      {
+        id: 74,
+        title: "Merge K Sorted Lists",
+        leetcodeLink: "https://leetcode.com/problems/merge-k-sorted-lists/",
+      },
+      {
+        id: 75,
+        title: "Top K Frequent Elements",
+        leetcodeLink: "https://leetcode.com/problems/top-k-frequent-elements/",
+      },
+      {
+        id: 76,
+        title: "Find Median from Data Stream",
+        leetcodeLink:
+          "https://leetcode.com/problems/find-median-from-data-stream/",
+      },
+    ],
+  },
   // ... other categories ...
 ];
 
